@@ -19,6 +19,10 @@ ul{
     list-style: none;
 }
 
+.container::before{
+    display: none !important;
+}
+
 
 .container{
     margin-left: auto;
