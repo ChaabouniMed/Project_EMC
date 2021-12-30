@@ -1,0 +1,137 @@
+ 
+   body{
+    background-color: #E4DAD7 !important;
+}
+
+.a1{
+    background-color: white;
+    width: 440px;
+    height: 338px;
+    padding: 44px;
+    position: relative;
+    margin: auto;
+    margin-top: 100px;
+    font-size: 13.5px;
+}
+.p1{
+    background-position: centre;
+    padding: 4px;
+    margin: 2px;
+    border: -2px;
+    border-style:ridge;
+    border-color: gray;
+}
+
+.a1 img{
+    margin-bottom: 10px;
+}
+
+#s{
+    font-size: 24px;
+    font-weight:577;
+}
+#s1{
+    font-size: small;
+    font-style:unset;
+    font-size: 15px;
+
+}
+
+
+button{
+    background-color: #0067B8;
+    width: 108px;
+    height: 32px;
+    border: none;
+    position: absolute;
+    left: 65.5%;
+    top: 77.3%;
+
+}
+
+button a{
+    color: white; 
+    text-decoration: none;
+    font-size: 16px;
+}
+
+a{
+    text-decoration: none;
+}
+
+input{
+    border: none;
+}
+
+.bb{
+    position: relative;
+}
+
+.bb::after{
+    content: "";
+    position: absolute;
+    width: 350px;
+    height: 0.2px;
+    background-color: black;
+    bottom: -7px;
+    right: 2px;
+}
+
+.sign{
+    margin: 20px;
+    position: relative;
+    margin: 20px auto;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    width: 440px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+/* sign options */
+.a11{
+    background-color: white;
+    background-size: cover;
+    width: 480px;
+    height: 380px;
+    padding: 44px;
+    position: relative;
+    margin: auto;
+    margin-top: 100px;
+    font-size: 13.5px;
+}
+.p11{
+    margin:0px;
+    color:black;
+    padding: 0px;
+}
+.p12{
+    color:black; 
+    padding: 0px;
+    margin: 0px;
+}
+.p13{
+    background-position: centre;
+    padding-left: 4px;
+    margin: 0px;
+    border-style:solid;
+    border-color: gray;
+    
+    
+}
+.b11{
+    background-color:rgba(128, 128, 128, 0.959);
+    width: 108px;
+    height: 32px;
+    border: none;
+    position: absolute;
+    left: 75.5%;
+    top: 82.3%;
+
+}
+.em{
+    background-size: 50px;
+}
